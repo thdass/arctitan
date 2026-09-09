@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/whitelist", "destination": "/index.html" }
+  ]
+}
